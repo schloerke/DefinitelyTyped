@@ -6617,9 +6617,6 @@ $( "#checkMetaKey" ).click(function( event ) {
     type _Falsy = false | null | undefined | 0 | '' | typeof document.all;
 }
 
-declare const jQuery: JQueryStatic;
-declare const $: JQueryStatic;
-
 type _Event = Event;
 type _UIEvent = UIEvent;
 type _MouseEvent = MouseEvent;
